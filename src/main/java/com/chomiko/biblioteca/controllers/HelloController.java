@@ -1,4 +1,4 @@
-package com.chomiko.biblioteca.Controller;
+package com.chomiko.biblioteca.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
